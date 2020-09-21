@@ -1,4 +1,4 @@
-# CodeForce
+# National Park Pal
 
 National Park Pal is an app that helps users find National parks in any state.
 When the site is visited, the homepage with the park slideshow renders. Park and activity search are not availiable for users not logged in. 
