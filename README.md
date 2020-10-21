@@ -1,3 +1,4 @@
+![npp](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8-rI7cpoOUBW87lKWBTVggHaI9%26pid%3DApi&f=1)
 # National Park Pal
 Plan a trip around your favorite National Parks with ease!
 
