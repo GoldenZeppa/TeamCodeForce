@@ -1,3 +1,5 @@
+# This is Create React App README, for main application README go to outer most directory
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
